@@ -1,0 +1,23 @@
+{
+  "name": "obsidian-copy-path",
+  "version": "1.0.0",
+  "description": "Copy file path or directory path of current note to clipboard",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "node esbuild.config.mjs production"
+  },
+  "keywords": ["obsidian", "plugin", "copy", "path"],
+  "author": "Chris",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.11.6",
+    "@typescript-eslint/eslint-plugin": "5.2.0",
+    "@typescript-eslint/parser": "5.2.0",
+    "builtin-modules": "3.2.0",
+    "esbuild": "0.13.12",
+    "obsidian": "latest",
+    "tslib": "2.3.1",
+    "typescript": "4.4.4"
+  }
+}

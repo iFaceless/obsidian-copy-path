@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-copy-path",
+	"name": "Copy Path",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Copy file path or directory path of current note to clipboard",
+	"author": "Chris",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
